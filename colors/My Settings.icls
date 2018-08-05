@@ -3,10 +3,11 @@
     <property name="created">2018-08-04T14:19:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-08-04T15:47:50</property>
+    <property name="modified">2018-08-05T13:09:38</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <colors>
+    <option name="CARET_ROW_COLOR" value="ffe124" />
     <option name="FILESTATUS_ADDED" value="73c990" />
     <option name="FILESTATUS_COPIED" value="73c990" />
     <option name="FILESTATUS_DELETED" value="a0a1a7" />
@@ -27,6 +28,8 @@
     <option name="FILESTATUS_addedOutside" value="50a14e" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="c18401" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="SELECTED_INDENT_GUIDE" value="4779cb" />
   </colors>
   <attributes>
     <option name="DEFAULT_ATTRIBUTE">
@@ -159,6 +162,9 @@
         <option name="FOREGROUND" value="ac3059" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="XML_TAG_NAME">
       <value>
