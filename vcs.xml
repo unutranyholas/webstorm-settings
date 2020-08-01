@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/photonstorm/phaser3-project-template" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.heroku.com/nba-game-excitement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
