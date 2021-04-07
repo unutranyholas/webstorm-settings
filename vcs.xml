@@ -11,23 +11,7 @@
           <option name="userName" value="unutranyholas" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/photonstorm/phaser3-project-template" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.heroku.com/nba-game-excitement.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.heroku.com" />
-          <option name="userName" value="unutranyholas" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/fibery/frontend/-/tree/menu-rework" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/fibery/frontend.git" />
+          <option name="url" value="https://gitlab.com/fibery/docker-compose-data" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -35,7 +19,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
