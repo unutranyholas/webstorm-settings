@@ -19,5 +19,6 @@
     <mask>*.test.js</mask>
     <mask>*test.js</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
